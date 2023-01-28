@@ -31,3 +31,5 @@ print(randomized2)
 print(randomized3)
 print(randomized4)
 print(randomized5)
+
+print('fixed')
