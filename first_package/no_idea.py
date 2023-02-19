@@ -1,0 +1,2 @@
+import funny_module
+funny_module.insane_function(5)
