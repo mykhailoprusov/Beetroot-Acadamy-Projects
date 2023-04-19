@@ -17,7 +17,7 @@ def handle_request():
     info = r.json()
     comment_info = info['data']
 
-    with open("comments.json") as file:
+    with open("comments0.json") as file:
 
         data = file.read()
         old_data = json.loads(data)
