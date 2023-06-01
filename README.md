@@ -31,7 +31,6 @@ Each branch is a separate assignment
 #### Branch lesson_34: Asyncio
 #### Branch lesson_36: SQL basics
 #### Branch lesson_37: SQL basics
-#### Branch lesson_38: Django. first steps
 #### Branch lesson_46_telegram_bot: Telegram bot
 
 
