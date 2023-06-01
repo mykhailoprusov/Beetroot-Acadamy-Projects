@@ -7,7 +7,7 @@ This is collection of completed assignements at Beetroot Academy Python Developm
 Each branch is a separate assignment
 
 ### Table of Contents:
-# Branch lesson_10: Python Exceptions
+#### Branch lesson_10: Python Exceptions
 # Branch lesson_12: Files, JSON files
 # Branch lesson_13: Python Closures
 # Branch lesson_14: Decorators
